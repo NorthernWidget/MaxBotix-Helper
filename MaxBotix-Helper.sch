@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE eagle SYSTEM "eagle.dtd">
-<eagle version="9.3.0">
+<eagle version="9.2.0">
 <drawing>
 <settings>
 <setting alwaysvectorfont="no"/>
@@ -4808,31 +4808,31 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <plain>
 </plain>
 <instances>
-<instance part="OUT" gate="G$1" x="78.74" y="43.18" smashed="yes">
+<instance part="OUT" gate="G$1" x="78.74" y="43.18">
 <attribute name="VALUE" x="78.74" y="43.434" size="1.778" layer="96" font="vector"/>
 <attribute name="NAME" x="78.74" y="64.77" size="1.778" layer="95" font="vector"/>
 </instance>
-<instance part="MAXBOTIX" gate="A" x="60.96" y="55.88" smashed="yes">
+<instance part="MAXBOTIX" gate="A" x="60.96" y="55.88">
 <attribute name="NAME" x="54.61" y="66.675" size="1.778" layer="95"/>
 <attribute name="VALUE" x="54.61" y="43.18" size="1.778" layer="96"/>
 </instance>
-<instance part="LOGO1" gate="G$1" x="78.74" y="83.82" smashed="yes"/>
-<instance part="SUPPLY1" gate="G$1" x="17.78" y="53.34" smashed="yes">
+<instance part="LOGO1" gate="G$1" x="78.74" y="83.82"/>
+<instance part="SUPPLY1" gate="G$1" x="17.78" y="53.34">
 <attribute name="VALUE" x="17.78" y="56.134" size="1.778" layer="96" align="bottom-center"/>
 </instance>
-<instance part="GND1" gate="1" x="40.64" y="40.64" smashed="yes">
+<instance part="GND1" gate="1" x="40.64" y="40.64">
 <attribute name="VALUE" x="40.64" y="40.386" size="1.778" layer="96" align="top-center"/>
 </instance>
-<instance part="GND2" gate="1" x="106.68" y="38.1" smashed="yes">
+<instance part="GND2" gate="1" x="106.68" y="38.1">
 <attribute name="VALUE" x="106.68" y="37.846" size="1.778" layer="96" align="top-center"/>
 </instance>
-<instance part="GND3" gate="1" x="73.66" y="38.1" smashed="yes">
+<instance part="GND3" gate="1" x="73.66" y="38.1">
 <attribute name="VALUE" x="73.66" y="37.846" size="1.778" layer="96" align="top-center"/>
 </instance>
-<instance part="SUPPLY2" gate="G$1" x="109.22" y="63.5" smashed="yes">
+<instance part="SUPPLY2" gate="G$1" x="109.22" y="63.5">
 <attribute name="VALUE" x="109.22" y="66.294" size="1.778" layer="96" align="bottom-center"/>
 </instance>
-<instance part="JP1" gate="G$1" x="7.62" y="81.28" smashed="yes">
+<instance part="JP1" gate="G$1" x="7.62" y="81.28">
 <attribute name="NAME" x="10.16" y="81.661" size="1.778" layer="95" font="vector"/>
 <attribute name="VALUE" x="10.16" y="80.899" size="1.778" layer="96" font="vector" align="top-left"/>
 </instance>
