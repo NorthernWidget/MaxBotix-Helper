@@ -28,7 +28,7 @@ This board connects to a MaxBotix "weather-resistant" series ultrasonic rangefin
 ### Instructions
 * User solder to select an analog or serial output on bottom side of the board
 * Solder the male header terminal onto the top side of the board
-* Using the male header terminal block, solder the MaxBotix-Helper to your MaxBotix rangefinder, oriented such such that the black plastic piece in the center lies along the widest point of the threaded circular housing. This is the critical piece: otherwise, the new assembly will not fit in a 3/4" pipe, according to the sensor threading!
+* Using the male header terminal block, solder the MaxBotix-Helper to your MaxBotix rangefinder, oriented such such that the black plastic piece in the center lies along the widest point of the threaded circular housing. If you are unsure, match up the white square on our Helper with the square pin on the MaxBotix solder rings. This is the critical piece: otherwise, the new assembly will not fit in a 3/4" pipe, according to the sensor threading!
 * Solder the screw terminal block onto the top side of the board (you can also do this earlier, depending on when it is easier for you). This should be in the position that makes it centered within the threaded circular ring.
 
 That's it! At this point, you should be ready connect your data logger / MCU device and the optional MaxTemp sensor. The last steps are just to ruggedize your sensor if you use it outside: we recommend press-fit PVC connections to prevent the wire-to-board connections from shearing off, and to use a solar radiation shield for the temperature compensation sensor.
