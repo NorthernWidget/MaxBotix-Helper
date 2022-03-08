@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.2653146.svg)](https://doi.org/10.5281/zenodo.2653146)
+
 # MaxBotix-Helper
 This board connects to a MaxBotix "weather-resistant" series ultrasonic rangefinder to present a friendlier set of output pins with screw terminals for easy hookup.
 
